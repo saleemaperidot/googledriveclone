@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25894517021",
+    "project_id": "driveclone-88c97",
+    "storage_bucket": "driveclone-88c97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25894517021:android:bad805b0bd2f0e9b4589f4",
+        "android_client_info": {
+          "package_name": "com.example.drive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25894517021-gb67kupptjf7vkd9f8m0vlnds08de6hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgYm5G4q6JwddOIWW2ieDLCrKhyw8gUqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25894517021-gb67kupptjf7vkd9f8m0vlnds08de6hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
